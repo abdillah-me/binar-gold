@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/muhabdillah/cari-mobil.git/static/css/main.d692a041.css",
+    "main.js": "/muhabdillah/cari-mobil.git/static/js/main.60db3ac2.js",
+    "static/js/787.8419052e.chunk.js": "/muhabdillah/cari-mobil.git/static/js/787.8419052e.chunk.js",
+    "static/media/img_car.png": "/muhabdillah/cari-mobil.git/static/media/img_car.ffe77cc73822a065a73a.png",
+    "static/media/img_service.png": "/muhabdillah/cari-mobil.git/static/media/img_service.3a3db8c1608f427874ee.png",
+    "index.html": "/muhabdillah/cari-mobil.git/index.html",
+    "main.d692a041.css.map": "/muhabdillah/cari-mobil.git/static/css/main.d692a041.css.map",
+    "main.60db3ac2.js.map": "/muhabdillah/cari-mobil.git/static/js/main.60db3ac2.js.map",
+    "787.8419052e.chunk.js.map": "/muhabdillah/cari-mobil.git/static/js/787.8419052e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d692a041.css",
+    "static/js/main.60db3ac2.js"
+  ]
+}
