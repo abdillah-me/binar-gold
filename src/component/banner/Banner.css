@@ -1,0 +1,19 @@
+#banner {
+   margin-top: 5% !important;
+}
+#banner .main-button {
+   background-color: #5cb85f;
+   border: none;
+   color: white;
+}
+
+#banner .item {
+   padding: 5% 10% !important;
+   background-color: #0d28a6;
+   color: white;
+}
+
+#banner p {
+   margin: 0 auto;
+   width: 60%;
+}

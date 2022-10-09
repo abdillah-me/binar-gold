@@ -1,0 +1,28 @@
+#service {
+   margin: 6% 0 !important;
+}
+#service ul img {
+   width: 5%;
+   height: 5%;
+}
+#service li {
+   list-style: none;
+}
+
+#service .list-service {
+   margin-left: -1.875rem;
+}
+
+@media only screen and (max-width: 768px) {
+   #service img.img-service {
+      width: 80%;
+      margin: 10px auto;
+      margin-bottom: 5%;
+   }
+   /* banner */
+   #banner p {
+      margin: 0 auto;
+      width: 100%;
+      font-weight: 400;
+   }
+}

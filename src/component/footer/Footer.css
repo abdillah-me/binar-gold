@@ -1,0 +1,12 @@
+#footer {
+   margin-top: 5% !important;
+}
+#footer li {
+   list-style: none;
+}
+#footer ul {
+   margin-left: -32px;
+}
+#footer .coppy {
+   width: 60%;
+}

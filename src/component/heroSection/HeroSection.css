@@ -1,0 +1,41 @@
+#hero {
+   height: 60vh;
+   background-color: #f1f3ff;
+}
+
+#hero .main-button {
+   background-color: #5cb85f;
+   border: none;
+   color: white;
+}
+
+#hero p {
+   width: 80%;
+}
+
+#hero a {
+   text-decoration: none;
+   color: white;
+}
+
+@media only screen and (max-width: 768px) {
+   #hero {
+      height: 70vh;
+      background-color: #f1f3ff;
+   }
+
+   #hero img {
+      width: 98%;
+   }
+
+   #hero .main-button {
+      background-color: #5cb85f;
+      border: none;
+      color: white;
+      margin-bottom: 60%;
+   }
+
+   #hero p {
+      width: 80%;
+   }
+}

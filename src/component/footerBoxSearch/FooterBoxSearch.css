@@ -1,0 +1,138 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+p {
+   font-weight: 500;
+}
+
+/* navbar */
+#navbar {
+   background-color: #f1f3ff !important;
+   width: 100%;
+}
+#navbar .navbar-brand {
+   width: 20%;
+}
+#navbar .navbar-brand img {
+   width: 60%;
+}
+
+#navbar .navbar-nav a {
+   color: black;
+}
+
+.offcanvas {
+   width: 80% !important;
+}
+/* navbar end */
+
+/* hero */
+#hero {
+   height: 60vh;
+   background-color: #f1f3ff;
+}
+
+#hero .main-button {
+   background-color: #5cb85f;
+   border: none;
+   color: white;
+}
+
+#hero p {
+   width: 80%;
+}
+/* hero end */
+
+/* searchbox */
+.card-box {
+   margin: 0 auto;
+   width: 90%;
+   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.15);
+   border-radius: 8px;
+   background-color: white;
+   padding: 2% 4%;
+   top: -140px;
+}
+
+.main-button-search {
+   background-color: #5cb85f;
+   font-size: 15px;
+   border: none;
+   color: white;
+   padding: 7px 13px;
+}
+
+.namMobil {
+   width: 22%;
+}
+
+.status {
+   width: 15%;
+}
+.button-cari {
+   width: 13%;
+}
+
+/* searchbox end */
+
+/* footer */
+#footer {
+   margin-top: 5% !important;
+   padding-top: 5%;
+}
+#footer li {
+   list-style: none;
+}
+#footer ul {
+   margin-left: -32px;
+}
+#footer .coppy {
+   width: 60%;
+}
+/* footer end */
+
+/* responsive */
+@media only screen and (max-width: 768px) {
+   /* navbar */
+   #navbar .navbar-brand {
+      width: 50%;
+   }
+   #navbar .navbar-brand img {
+      width: 100%;
+   }
+   /* hero */
+   #hero {
+      height: 70vh;
+      background-color: #f1f3ff;
+   }
+
+   #hero img {
+      width: 98%;
+   }
+
+   #hero .main-button {
+      background-color: #5cb85f;
+      border: none;
+      color: white;
+      margin-bottom: 60%;
+   }
+
+   #hero p {
+      width: 80%;
+   }
+   /* service */
+   #service img.img-service {
+      width: 80%;
+      margin: 10px auto;
+      margin-bottom: 5%;
+   }
+   /* banner */
+   #banner p {
+      margin: 0 auto;
+      width: 100%;
+      font-weight: 400;
+   }
+   /* footer */
+}
