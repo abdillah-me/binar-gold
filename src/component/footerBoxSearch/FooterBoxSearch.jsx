@@ -49,7 +49,7 @@ const FooterBoxSearch = () => {
                      <select className="form-select" aria-label="Default select example">
                         <option value="1">Disewa</option>
                         <option value="2">Dibeli</option>
-                        <option value="3">Dipinjam</option>
+                        <option value="3">Dipinjamkan</option>
                      </select>
                   </div>
                   <div className="button-cari d-flex justify-content-center">
